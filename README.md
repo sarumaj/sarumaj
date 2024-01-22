@@ -2,8 +2,9 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning a lot about DevSecOps and backend-development
 - 💞️ I’m planning to learn a lot more xD
-- 📫 Do not try to reach me unless we know each other in real life
+- 📫 You can reach me on social media
 - 📬 [LinkedIn](https://www.linkedin.com/in/dawid-ciepiela), [Xing](https://www.xing.com/profile/DawidDamian_Ciepiela)
+- ✨ Check ou some of my repositories to get to know me better
 
 <!---
 sarumaj/sarumaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
