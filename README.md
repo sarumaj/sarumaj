@@ -1,4 +1,4 @@
-# WhoAmI
+# About
 - 👋 Hi, I’m @sarumaj
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning a lot about DevSecOps and backend-development
