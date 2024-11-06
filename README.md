@@ -1,13 +1,7 @@
-# About
-- 👋 Hi, I’m @sarumaj
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning a lot about DevSecOps and backend-development
-- 💞️ I’m planning to learn a lot more xD
-- 📫 You can reach me on social media
-- 📬 [LinkedIn](https://www.linkedin.com/in/dawid-ciepiela), [Xing](https://www.xing.com/profile/DawidDamian_Ciepiela)
-- ✨ Check ou some of my repositories to get to know me better
+# whoami
+Hi, I am Dawid, an enthusiastic programmer from the Mobility Sector 🙃. An electrical engineer with experience in programming collaborative robots, advanced driver assistance systems, etc. I work as a DevOps Engineer in Global IT for a huge automotive supplier company. I focus on backend development and process automation 🤖
 
-# Projects
+# work
 
 | Repository                                                                                                | Description                                                                                                  | Runtime                                                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
