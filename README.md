@@ -1,5 +1,5 @@
 # whoami
-Hi, I am Dawid, an enthusiastic programmer from the Mobility Sector 🙃. An electrical engineer with experience in programming collaborative robots, advanced driver assistance systems, etc. I work as a DevOps Engineer in Global IT for a huge automotive supplier company. I focus on backend development and process automation 🤖
+Hi, I am Dawid, an enthusiastic programmer from the Mobility Sector 🙃. An electrical engineer with experience in programming collaborative robots, advanced driver assistance systems, etc. I work as a DevOps Engineer and Consultant. I focus on backend development and process automation 🤖
 
 # work
 
