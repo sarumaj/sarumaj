@@ -1,7 +1,7 @@
 # whoami
 Hi, I am Dawid, an enthusiastic programmer from the Mobility/Aviation Sector 🙃. An electrical engineer with experience in programming collaborative robots, advanced driver assistance systems, etc. I work as a DevOps Engineer/SRE. I focus on backend development and process automation 🤖, but lately even on RAG and LLM development.
 
-# work
+# whatido
 
 | Repository                                                                                                | Description                                                                                                  | Runtime                                                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
