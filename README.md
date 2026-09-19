@@ -1,16 +1,48 @@
-# whoami
-Hi, I am Dawid, an enthusiastic programmer from the Mobility/Aviation Sector 🙃. An electrical engineer with experience in programming collaborative robots, advanced driver assistance systems, etc. I work as a DevOps Engineer/SRE. I focus on backend development and process automation 🤖, but lately even on RAG and LLM development.
+# Sarumaj
 
-# whatido
+```text
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⣀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠉⠁⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⠂⠀⠀⠀⠀⠀⠀⠀⢹⣿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠴⠚⢳⣦⣄⡀⠀⠀⠀⠀⢸⣿⣤⡿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⠉⠀⠀⠀⠀⠻⣼⠹⣗⢦⣄⣰⣿⣿⣿⣥⣶⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠂⣤⠴⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠹⣗⠮⣭⡟⢱⣿⣿⣿⡛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠚⠁⠀⠀⠀⠀⡠⠀⠀⠀⠀⠀⣆⠀⠹⣿⡿⢀⣾⣿⣿⣿⣛⡷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣏⡁⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠘⠁⠀⣿⣄⡴⠋⢀⣼⣿⢤⣬⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠄
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠓⠶⢤⣄⣀⣘⠃⠀⠀⠀⢺⠁⠀⡾⠋⠀⣠⣿⣿⣿⣿⣿⣿⡿⠃⠀⣴⣶⣶⣷⠶⠶⠀⠀⠀⠀⠀⠀⢀⢢⣔⣱⣮⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠉⢿⣿⣿⣿⣶⣶⠏⠀⢀⣾⣿⣿⣿⣿⣿⣿⣇⢀⣀⣰⣿⣿⡏⠉⠀⠀⠀⠀⠀⠀⢀⠸⣎⣷⣿⣿⣷⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣶⣿⣿⣿⣾⣿⢿⡿⠛⠁⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿⣿⡟⠛⠛⠁⠀⠀⣀⣴⣣⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⡿⠛⠉⡴⠋⠀⢀⡴⣻⣽⣿⣿⣿⣿⣿⣿⡛⠟⠿⢻⣿⣿⡛⠁⣽⡄⠀⣀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⡟⠀⠀⠈⠀⢀⡴⢯⣳⣿⡿⠷⣿⣿⣿⣿⣬⣟⣛⠛⡋⢸⣿⣿⣷⣞⣷⣾⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⡟⠀⠀⣀⣀⡴⣏⣼⣿⣿⣿⣦⣤⣸⣿⣿⣿⣿⣿⠮⣍⣉⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⡇⣠⣟⣯⣵⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⣤⡴⣖⡷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⢀⣀⡤⣴⡶⣿⣿⣽⣷⣿⡿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣠⣤⣤⣤⣼⣿⣻⣿⣿⣿⣿⡿⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣇⠘⢧⡘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣾⣿⣿⣻⣿⣿⣯⣿⣟⣿⣿⡿⣟⣯⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣳⢚⣇⠈⠱⠄⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣳⢯⣷⢿⣟⣿⣿⣽⣿⢿⣿⣻⣿⣿⣿⢿⣻⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⣭⠾⣆⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⡽⣟⣯⣿⣞⡿⣞⣯⢿⣻⡽⣟⣷⢿⡾⣿⣟⣯⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣦⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
 
+## whoami
 
-| Repository                                                                                                | Description                                                                                                  | Runtime                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [OSM Territory Mapper](https://github.com/sarumaj/osmapp) | Split a map area into walkable territories using machine learning, then print each one as a card. | [![Python 3.12](https://img.shields.io/badge/python-3.12-green.svg?logo=python&label=&labelColor=gray)](https://www.python.org/downloads/release/python-3120/) [![JavaScript](https://img.shields.io/badge/js-es6-yellow.svg?logo=javascript&label=&labelColor=gray)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                                 |
-| [ScalableMarketplace](https://github.com/sarumaj/ScalableMarketplace) | Proof-of-concept blockchain marketplace demonstrating scalability patterns with batch operations, benchmarking, and a React frontend for zkEVM/Layer-2 style workflows. | [![Node.js](https://img.shields.io/badge/node.js-18+-green.svg?logo=node.js&label=&labelColor=gray)](https://nodejs.org/) [![Solidity](https://img.shields.io/badge/solidity-0.8.20-black.svg?logo=solidity&label=&labelColor=gray)](https://soliditylang.org/) |
-| [caddy-cdn-ranges](https://github.com/sarumaj/caddy-cdn-ranges)                                       | Caddy plugin to support common CDN for trusted proxy list                                                                                      | [![Go version](https://img.shields.io/github/go-mod/go-version/sarumaj/caddy-cdn-ranges?logo=go&label=&labelColor=gray)](https://go.dev)                      |
-| [unbabelizer](https://github.com/sarumaj/unbabelizer)                   | Unbabelizer is an interactive CLI for creating, editing and compiling *.po translation files. | [![Python 3.12](https://img.shields.io/badge/python-3.12-green.svg?logo=python&label=&labelColor=gray)](https://www.python.org/downloads/release/python-3120/)                                  |
-| [langchain-memvid](https://github.com/sarumaj/langchain-memvid)                   | A Langchain implementation for Memvid, enabling efficient video-based document storage and retrieval using vector embeddings. | [![Python 3.12](https://img.shields.io/badge/python-3.12-green.svg?logo=python&label=&labelColor=gray)](https://www.python.org/downloads/release/python-3120/)   
+Hi, I am Dawid, an enthusiastic programmer from the Mobility/Aviation Sector 🙃.
+An electrical engineer with experience in programming collaborative robots,
+advanced driver assistance systems, etc. I work as a DevOps Engineer/SRE.
+I focus on backend development and process automation 🤖, but lately even on
+RAG and LLM development.
+
+## whatido
+
+| Repository                                                            | Description                                                                                                                                                             | Runtime                                                                                                                                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [depphunter-cli](https://github.com/sarumaj/depphunter-cli)           | Browse any code base as an interactive isometric archipelago in your browser.                                                                                           | [![Go version](https://img.shields.io/github/go-mod/go-version/sarumaj/depphunter-cli?logo=go&label=&labelColor=gray)](https://go.dev)                                                                                                                                                                                         |
+| [OSM Territory Mapper](https://github.com/sarumaj/osmapp)             | Split a map area into walkable territories using machine learning, then print each one as a card.                                                                       | [![Python 3.12](https://img.shields.io/badge/python-3.12-green.svg?logo=python&label=&labelColor=gray)](https://www.python.org/downloads/release/python-3120/) [![JavaScript](https://img.shields.io/badge/js-es6-yellow.svg?logo=javascript&label=&labelColor=gray)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| [ScalableMarketplace](https://github.com/sarumaj/ScalableMarketplace) | Proof-of-concept blockchain marketplace demonstrating scalability patterns with batch operations, benchmarking, and a React frontend for zkEVM/Layer-2 style workflows. | [![Node.js](https://img.shields.io/badge/node.js-18+-green.svg?logo=node.js&label=&labelColor=gray)](https://nodejs.org/) [![Solidity](https://img.shields.io/badge/solidity-0.8.20-black.svg?logo=solidity&label=&labelColor=gray)](https://soliditylang.org/)                                                                |
+| [caddy-cdn-ranges](https://github.com/sarumaj/caddy-cdn-ranges)       | Caddy plugin to support common CDN for trusted proxy list                                                                                                               | [![Go version](https://img.shields.io/github/go-mod/go-version/sarumaj/caddy-cdn-ranges?logo=go&label=&labelColor=gray)](https://go.dev)                                                                                                                                                                                       |
+| [unbabelizer](https://github.com/sarumaj/unbabelizer)                 | Unbabelizer is an interactive CLI for creating, editing and compiling *.po translation files.                                                                           | [![Python 3.12](https://img.shields.io/badge/python-3.12-green.svg?logo=python&label=&labelColor=gray)](https://www.python.org/downloads/release/python-3120/)                                                                                                                                                                 |
+| [langchain-memvid](https://github.com/sarumaj/langchain-memvid)                   | A Langchain implementation for Memvid, enabling efficient video-based document storage and retrieval using vector embeddings. | [![Python 3.12](https://img.shields.io/badge/python-3.12-green.svg?logo=python&label=&labelColor=gray)](https://www.python.org/downloads/release/python-3120/)
 | [local-flight-map](https://github.com/sarumaj/local-flight-map)                   | A real-time air traffic visualization web app. | [![Python 3.12](https://img.shields.io/badge/python-3.12-green.svg?logo=python&label=&labelColor=gray)](https://www.python.org/downloads/release/python-3120/)                                  |
 | [rag-agent](https://github.com/sarumaj/rag-agent)                   | Custom local RAG AI agent.  | [![Python 3.12](https://img.shields.io/badge/python-3.12-green.svg?logo=python&label=&labelColor=gray)](https://www.python.org/downloads/release/python-3120/)                                  |
 | [kagi-proxy](https://github.com/sarumaj/kagi-proxy)                   | A HTTP proxy service over TLS allowing access to my [kagi.com](https://kagi.com) session.  | [![Go version](https://img.shields.io/github/go-mod/go-version/sarumaj/kagi-proxy?logo=go&label=&labelColor=gray)](https://go.dev)                                  |
@@ -29,4 +61,3 @@ Hi, I am Dawid, an enthusiastic programmer from the Mobility/Aviation Sector �
 | [schulportal-telegram-bot](https://github.com/sarumaj/schulportal-telegram-bot)                           | A Telegram bot made to leverage features of Hesse school portal                                              | [![Python 3.9](https://img.shields.io/badge/python-3.9-green.svg?logo=python&label=&labelColor=gray)](https://www.python.org/downloads/release/python-390/)     |
 | [iubh-tampermonkey-course-registration](https://github.com/sarumaj/iubh-tampermonkey-course-registration) | A tampermonkey JS script allowing to cancel a course registration or enroll for another at university campus | [![JavaScript](https://img.shields.io/badge/js-es6-yellow.svg?logo=javascript&label=&labelColor=gray)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | [rust-playground](https://github.com/sarumaj/rust-playground)                                             | A collection of tiny projects I worked on while learning rust                                                | [![Rust](https://img.shields.io/badge/rust-2021-red.svg?logo=rust&label=&labelColor=gray)](https://www.rust-lang.org/tools/install)                             |
-
